@@ -1,8 +1,6 @@
 # E-Commerce
 Complete E-Commerce Project using Spring, Hibernate, Bootstrap &amp; MySQL
 
-## Project Demo video : https://foysal-mahmud.github.io/cv/#project 
-
 ## Home Page:
 ![Project Snapsort1](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook1.png) 
 
