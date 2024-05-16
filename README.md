@@ -1,5 +1,5 @@
 # E-Commerce
-Complete E-Commerce Project using Spring, Hibernate, Bootstrap &amp; MySQL
+Complete E-Commerce Project using Spring, Hibernate, Bootstrap &amp; MySQL.
 
 ## Home Page:
 ![Project Snapsort1](https://github.com/Parth018/E-BookShop--Spring-boot-master/blob/master/screensort/ebook1.png) 
