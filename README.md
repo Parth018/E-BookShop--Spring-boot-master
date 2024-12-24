@@ -88,8 +88,6 @@ Complete E-Commerce Project using Spring, Hibernate, Bootstrap and SQL
 
 ![Project Snapsort34](https://github.com/Parth018/E-BookShop--Spring-boot-master/blob/master/screensort/ebook34.png)
 
-![Project Snapsort35](https://github.com/Parth018/E-BookShop--Spring-boot-master/blob/master/screensort/ebook35.png)
-
 ![Project Snapsort36](https://github.com/Parth018/E-BookShop--Spring-boot-master/blob/master/screensort/ebook36.png)
 
 ![Project Snapsort37](https://github.com/Parth018/E-BookShop--Spring-boot-master/blob/master/screensort/ebook37.png)
